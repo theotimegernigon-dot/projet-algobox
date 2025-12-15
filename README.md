@@ -22,6 +22,6 @@ Il implémente un algorithme permettant de décrire brièvement ce que fait le p
 - Yanis ABBES
 - Théotime GERNIGON
 
-## Lien GitHub (version figée)
-👉 https://github.com/theotimegernigon-dot/projet-algobox/releases/tag/v1.0
+## Lien GitHub 
+👉 [https://github.com/theotimegernigon-dot/projet-algobox/releases/tag/v1.0](https://github.com/theotimegernigon-dot/projet-algobox.git)
 
